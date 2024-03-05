@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Schedler",
+    "slug": "Schedler",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconsched.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Schedler.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon1.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": ""
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "088f3a7d-edee-4eb0-94b1-4fd45bdafeb3"
+      }
+    }
+  }
+}
